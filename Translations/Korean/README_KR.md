@@ -1,4 +1,4 @@
-#면접 문제 은행
+#프론트엔드 면접 질문
 
 @version 1.0
  
@@ -7,11 +7,11 @@
 @bentruyman (http://bentruyman.com/), @roger_raymond (http://twitter.com/iansym), @ajpiano (http://ajpiano.com/), @paul_irish (http://paulirish.com/), @SlexAxton (http://alexsexton.com/), @boazsender (http://boazsender.com/), @miketaylr (http://miketaylr.com/), @vladikoff (http://vladfilippov.com/), @gf3 (http://gf3.ca/), @jon_neal (http://twitter.com/jon_neal), @wookiehangover (http://wookiehangover.com/) and @darcy_clarke (http://darcyclarke.me)
 
 ##한국어 번역(한국 상황에 맞춰서 약간 수정 하였습니다.)
-@ohgyun(http://ohgyun.com), @nerdog, @javarouka, @Songhun(http://songhun.blogspot.com)
+@ohgyun(http://ohgyun.com), @nerdog, @javarouka, @Songhun(http://songhun.blogspot.com), @webixable(http://webix.co.kr/)
 
 ## 일반적인 질문:
 
-* Twitter,Facebook 혹은 Me2day등의 SNS를 사용하시나요?
+* Twitter,Facebook 등의 SNS를 사용하시나요?
 	* 사용한다면, 누구를 팔로우 하고 있나요?
 * GitHub을 사용하시나요?
 	* 사용한다면, 어떤 프로젝트를 Watch 혹은 Fork하시나요?
